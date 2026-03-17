@@ -1,6 +1,6 @@
 # RPOE_MRI
 
-**R**esearch **P**rogram **O**fr **E**scellence (**RPOE**) — 7 Tesla MRI Processing and Analysis
+**R**esearch **P**rogram **O**f **E**scellence (**RPOE**) — 7 Tesla MRI Processing and Analysis
 
 This repository contains the full pipeline for processing, analyzing, and visualizing 7T MRI data from the RPOE study, including structural (T1w/T2w) and functional (resting-state and task-based) MRI modalities. Analyses span anatomical volumetrics, functional signal characterization, task-fMRI design and activation modeling, functional connectivity, network correspondence, and mitochondrial mapping — all linked to behavioral and cognitive phenotypes (language, IQ).
 
